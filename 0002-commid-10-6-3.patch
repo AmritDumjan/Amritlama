@@ -1,0 +1,25 @@
+From bb47e45b2f40ad08b45d3006d2d45a03049596bc Mon Sep 17 00:00:00 2001
+From: amrit lama <dumjan2040@gmail.com>
+Date: Thu, 6 Oct 2016 17:15:53 -0400
+Subject: [PATCH 2/2] commid 10/6-3
+
+---
+ amrit.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/amrit.html b/amrit.html
+index 1bf4bf3..a615bba 100644
+--- a/amrit.html
++++ b/amrit.html
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+-  <title>About Git Training</title>
++  <title>About Git Training1</title>
+   <link rel="stylesheet" href="../style.css" />
+   <meta charset="utf-8" />
+ </head>
+-- 
+2.8.2.windows.1
+
